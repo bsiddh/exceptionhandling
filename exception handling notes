@@ -1,0 +1,30 @@
+Exception Handling
+
+ways to handle exception
+I)try-catch blocks
+ii)throws key words
+
+
+Types of exception
+I)checked exception
+ii)Unchecked exception
+iii)Error
+
+
+Unchecked exception :I) exception not checked by compiler.
+ii)child class of Run time exception.
+
+checked exception: I) exception checked by compiler.
+ii)child class of exception
+
+
+*)whether it is checked or unchecked exception , it runs at run time.
+
+Error
+I)lack of system resource are the main cause.
+ii)unchecked types.
+iii)not possible to handle.
+Example : system out of memory.
+
+
+
