@@ -1,0 +1,6 @@
+//Throw keyword
+
+*Throw keyword is used to create custom exception
+*It would be checked or unchecked exception
+*Basically an object is created of exception at first and by using throw keyword it will be handled to JVM
+*since JVM handles the preDefined exception
